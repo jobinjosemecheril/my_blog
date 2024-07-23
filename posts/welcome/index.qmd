@@ -14,3 +14,9 @@ This academic blog contains course materials for 20MAT203.
 Discrete mathematics is a tool for Computer science and Engineering.
 :::
 
+### Callout block
+
+::: {.callout-note}
+This is a callout note.
+:::
+
