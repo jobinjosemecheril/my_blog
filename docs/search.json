@@ -14,11 +14,11 @@
     "text": "This academic blog contains course materials for 20MAT203.\n\n\n\n\n\n\nTip\n\n\n\nDiscrete mathematics is a tool for Computer science and Engineering."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "my_blog",
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJul 23, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJul 23, 2024\n\n\nJobin Jose\n\n\n\n\n\n\nNo matching items"
+    "text": "This is a post with executable code."
   },
   {
     "objectID": "about.html",
@@ -28,10 +28,52 @@
     "text": "About this blog"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "my_blog",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nJul 23, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJul 23, 2024\n\n\nJobin Jose\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJul 23, 2024\n\n\nJobin Jose\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/Session_1/index.html",
+    "href": "posts/Session_1/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Welcome to the world of Discrete Mathematics—a foundational area of study essential for Computer Science and Engineering disciplines. Unlike continuous mathematics, which deals with continuous, infinite quantities, discrete mathematics focuses on discrete, separate structures like integers, graphs, and logical statements. This field forms the theoretical backbone of various technological domains, providing tools for solving complex problems in computing, networking, cryptography, and artificial intelligence.\n\n\nDiscrete Mathematics is crucial because it: - Establishes the theoretical foundation for algorithms, data structures, and computational theory. - Develops essential problem-solving skills applicable to real-world technological challenges. - Enables innovation and advancement in diverse technological fields.\n\n\n\nThroughout this course, you will explore essential topics such as: - Logic and Proofs: Constructing logical arguments and proofs critical for algorithm validation. - Set Theory: Foundational for data structures and database systems. - Combinatorics: Techniques for counting and analyzing algorithms. - Graph Theory: Modeling relationships and structures fundamental in network design. - Discrete Probability: Applying probability theory to discrete scenarios in algorithm design.\n\n\n\nThis course aims to: - Cultivate analytical thinking and problem-solving abilities. - Master fundamental concepts in discrete mathematics relevant to computer science and engineering. - Apply theoretical knowledge to practical, real-world technological challenges.\n\n\n\nWhile a basic understanding of algebra and logic is beneficial, this course is designed to be accessible to anyone with an interest in computer science, engineering, or related fields. Clear explanations, examples, and problem-solving exercises will be provided to ensure understanding and application of concepts.\n\n\n\nBy mastering Discrete Mathematics, you will gain a solid foundation for understanding and contributing to advancements in technology. This course prepares you to tackle complex challenges in computing, networking, and beyond, making it an indispensable part of your academic and professional journey in Computer Science and Engineering."
+  },
+  {
+    "objectID": "posts/Session_1/index.html#importance-of-discrete-mathematics",
+    "href": "posts/Session_1/index.html#importance-of-discrete-mathematics",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Discrete Mathematics is crucial because it: - Establishes the theoretical foundation for algorithms, data structures, and computational theory. - Develops essential problem-solving skills applicable to real-world technological challenges. - Enables innovation and advancement in diverse technological fields."
+  },
+  {
+    "objectID": "posts/Session_1/index.html#key-topics-covered",
+    "href": "posts/Session_1/index.html#key-topics-covered",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Throughout this course, you will explore essential topics such as: - Logic and Proofs: Constructing logical arguments and proofs critical for algorithm validation. - Set Theory: Foundational for data structures and database systems. - Combinatorics: Techniques for counting and analyzing algorithms. - Graph Theory: Modeling relationships and structures fundamental in network design. - Discrete Probability: Applying probability theory to discrete scenarios in algorithm design."
+  },
+  {
+    "objectID": "posts/Session_1/index.html#course-objectives",
+    "href": "posts/Session_1/index.html#course-objectives",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This course aims to: - Cultivate analytical thinking and problem-solving abilities. - Master fundamental concepts in discrete mathematics relevant to computer science and engineering. - Apply theoretical knowledge to practical, real-world technological challenges."
+  },
+  {
+    "objectID": "posts/Session_1/index.html#prerequisites",
+    "href": "posts/Session_1/index.html#prerequisites",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "While a basic understanding of algebra and logic is beneficial, this course is designed to be accessible to anyone with an interest in computer science, engineering, or related fields. Clear explanations, examples, and problem-solving exercises will be provided to ensure understanding and application of concepts."
+  },
+  {
+    "objectID": "posts/Session_1/index.html#conclusion",
+    "href": "posts/Session_1/index.html#conclusion",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "By mastering Discrete Mathematics, you will gain a solid foundation for understanding and contributing to advancements in technology. This course prepares you to tackle complex challenges in computing, networking, and beyond, making it an indispensable part of your academic and professional journey in Computer Science and Engineering."
   }
 ]
