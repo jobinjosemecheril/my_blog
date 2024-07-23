@@ -6,4 +6,11 @@ categories: [news]
 image: thumbnail.jpg
 ---
 
+## This is an academic blog
+
 This academic blog contains course materials for 20MAT203.
+
+::: {.callout-tip}
+Discrete mathematics is a tool for Computer science and Engineering.
+:::
+
