@@ -1,5 +1,5 @@
 ---
-title: "my_blog"
+title: "Academic Related Works"
 listing:
   contents: posts
   sort: "date desc"
