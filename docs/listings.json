@@ -2,6 +2,8 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/My_Expectations/index.html",
+      "/posts/new_thoughts/index.html",
       "/posts/post-with-code/index.html",
       "/posts/Session_1/index.html",
       "/posts/welcome/index.html"
